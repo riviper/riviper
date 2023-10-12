@@ -15,3 +15,6 @@
 <p>
   <strong>aprendendo:</strong>
 </p>
+<li>java</li>
+<li>rust</li>
+<li>python</li>
