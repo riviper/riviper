@@ -8,11 +8,10 @@
 <p>
   <strong>sei utilizar:</strong>
 </p>
-
+<p></p>
 <li>HTML</li>
 <li>CSS "medios"</li>
-
-<p>
+<p> <br>
   <strong>aprendendo:</strong>
 </p>
 <li>java</li>
